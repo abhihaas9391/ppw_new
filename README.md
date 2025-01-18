@@ -1,4 +1,4 @@
-# [Abhihaas's Personal Portfolio]( https://abhihaas9391.github.io/ppw_new/)
+# <a href="https://abhihaas9391.github.io/ppw_new/" target="_blank">Abhihaas's Personal Portfolio</a>
 
 Welcome to my personal portfolio website repository! This website showcases my skills, projects, and achievements in the fields of Python development, Machine Learning, and iOS app development. Below, you'll find details about how to set up and explore the project.
 
