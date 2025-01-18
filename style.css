@@ -12,7 +12,7 @@
     hsl(240, 1%, 25%) 3%, 
     hsl(0, 0%, 19%) 97%
   );
-  --bg-gradient-jet: linear-gradient(
+  --bg-gradient-jet: linear-gradient( 
     to bottom right, 
     hsla(240, 1%, 18%, 0.251) 0%, 
     hsla(240, 2%, 11%, 0) 100%
@@ -1458,7 +1458,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .sidebar-info { flex-direction: column; }
 
-  .avatar-box img { width: 150px; }
+  .avatar-box img {
+    border-radius: 20px;
+    width: 190px; 
+  }
 
   .info-content .name {
     white-space: nowrap;
