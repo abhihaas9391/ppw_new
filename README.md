@@ -27,6 +27,4 @@ Make sure you have the following installed on your local machine:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
-
-
+   git clone https://github.com/abhihaas9391/ppw_new
